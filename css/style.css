@@ -1,0 +1,50 @@
+*{
+    font-family: Arial;
+}
+#nav-list a{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+#nav-list hr{
+    width: 100%;
+    border: 2px solid #343a40;
+    margin: 0px auto 0px;
+}
+#nav-list{
+    background-color: white;
+}
+
+.nav-item{
+    width: 100%;
+}
+
+.page-header{
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+}
+.element{
+    background-color: darkgrey;
+    text-align: center;
+    color: black;
+    width: 100%;
+    height: 1000px;
+    padding: 20px 20px 20px;
+
+}
+
+.region-title{
+    color: black;
+    font-size: 1.3em;
+    font-family: Arial;
+    font-weight: bold;
+
+}
+
+.container{
+    max-width: 94%;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
